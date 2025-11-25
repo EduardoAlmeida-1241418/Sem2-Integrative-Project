@@ -50,7 +50,7 @@ This project was developed with the collaboration of the following team:
 Ensure you have Java 17+ and Maven installed.
 
 ## Build
-mvn clean install
+`mvn clean install`
 
 ## Run
-mvn exec:java -Dexec.mainClass="<main-class-path>"
+`mvn exec:java -Dexec.mainClass="<main-class-path>"`
