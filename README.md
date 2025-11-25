@@ -53,3 +53,7 @@ Ensure you have Java 17+ and Maven installed.
 
 ## Run
 `mvn exec:java -Dexec.mainClass="<main-class-path>"`
+
+## Project Distinction
+
+Top 3 Integrative Project of the 2nd semester of the 2024/25 academic year.
